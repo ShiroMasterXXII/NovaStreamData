@@ -6,9 +6,9 @@
       "items": [
         {
           "id": 101,
-          "title": "Castillo en el Cielo",
-          "thumbnail": "https://www.dropbox.com/s/tuimagen/pelicula.jpg?dl=1",
-          "video_url": "http://ia802200.us.archive.org/26/items/Peliculas-wii/El%20castillo%20en%20el%20cielo.mp4",
+          "title": "Como Entrenar a tu Dragon",
+          "thumbnail": "https://github.com/ShiroMasterXXII/NovaStreamData/blob/main/thumbnails/dragonCT.jpg?raw=true",
+          "video_url": "https://www.dropbox.com/scl/fi/eifw4v3p9hxrcdllip4bh/Como-entrenar-a-tu-drag-n-2025.mp4?rlkey=efjaizuny4b5eyd4xob6ggrsa&st=gbcotid4&raw=0",
           "type": "movie"
         },
         {
@@ -33,13 +33,13 @@
       "items": [
         {
           "id": 201,
-          "title": "Serie de Prueba",
-          "thumbnail": "https://www.dropbox.com/s/tuimagen/serie.jpg?dl=1",
+          "title": "Re Zero T4",
+          "thumbnail": "https://github.com/ShiroMasterXXII/NovaStreamData/blob/main/thumbnails/Rezeo%20Cr.jpg?raw=true",
           "type": "series",
           "chapters": [
             {
               "title": "Capítulo 1",
-              "video_url": "https://www.dropbox.com/s/tuvideo/serie_ep1.mp4?dl=1"
+              "video_url": "https://www.dropbox.com/scl/fi/4c2e4wjq504sryvl1oxig/Facebook-2.mp4?rlkey=hg90wfohwrhep8rr8wi3rkyn7&st=e1u2t11r&raw=0"
             },
             {
               "title": "Capítulo 2",
@@ -98,6 +98,7 @@
     }
   ]
 }
+
 
 
 
