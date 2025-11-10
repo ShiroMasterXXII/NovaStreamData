@@ -8,7 +8,8 @@
           "id": 101,
           "title": "Como Entrenar a tu Dragon",
           "thumbnail": "https://github.com/ShiroMasterXXII/NovaStreamData/blob/main/thumbnails/dragonCT.jpg?raw=true",
-          "video_url": "https://www.dropbox.com/scl/fi/eifw4v3p9hxrcdllip4bh/Como-entrenar-a-tu-drag-n-2025.mp4?rlkey=efjaizuny4b5eyd4xob6ggrsa&st=gbcotid4&raw=0",
+          "video_url": "https://dl.dropboxusercontent.com/scl/fi/eifw4v3p9hxrcdllip4bh/Como-entrenar-a-tu-drag-n-2025.mp4?rlkey=efjaizuny4b5eyd4xob6ggrsa"
+",
           "type": "movie"
         },
         {
@@ -22,7 +23,7 @@
           "id": 103,
           "title": "Aviones",
           "thumbnail": "https://www.dropbox.com/s/tuimagen/pelicula3.jpg?dl=1",
-          "video_url": "https://onedrive.live.com/download.aspx?resid=64b14779817ef4b!126&authkey=!AMfPb6GJNQesTxU&ithint=video%2cmp4",
+          "video_url": "https://onedrive.live.com/download.aspx?resid=64b14779817ef4b!126&authkey=!AMfPb6GJNQesTxU&ithint=video%2cmp4"
           "type": "movie"
         }
       ]
@@ -39,7 +40,8 @@
           "chapters": [
             {
               "title": "Capítulo 1",
-              "video_url": "https://www.dropbox.com/scl/fi/4c2e4wjq504sryvl1oxig/Facebook-2.mp4?rlkey=hg90wfohwrhep8rr8wi3rkyn7&st=e1u2t11r&raw=0"
+              "video_url": "https://dl.dropboxusercontent.com/scl/fi/4c2e4wjq504sryvl1oxig/Facebook-2.mp4?rlkey=hg90wfohwrhep8rr8wi3rkyn7"
+"
             },
             {
               "title": "Capítulo 2",
@@ -98,6 +100,7 @@
     }
   ]
 }
+
 
 
 
