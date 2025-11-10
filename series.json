@@ -6,9 +6,9 @@
       "items": [
         {
           "id": 101,
-          "title": "Pokemon la Pelicula",
+          "title": "Castillo en el Cielo",
           "thumbnail": "https://www.dropbox.com/s/tuimagen/pelicula.jpg?dl=1",
-          "video_url": "http://www.spruto.tv/get_file/5/c210540071556cb986030e20f2782671/117000/117055/117055.mp4",
+          "video_url": "http://ia802200.us.archive.org/26/items/Peliculas-wii/El%20castillo%20en%20el%20cielo.mp4",
           "type": "movie"
         },
         {
@@ -92,6 +92,7 @@
     }
   ]
 }
+
 
 
 
