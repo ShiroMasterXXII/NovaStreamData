@@ -82,22 +82,17 @@
         },
         {
           "id": 302,
-          "title": "NatGeoWild",
-          "thumbnail": "https://www.dropbox.com/scl/fi/33h225qb6t3kx7vdqtpi2/Natgeoicon.jpg?rlkey=5uox5w89x54b4wvnvdhhufe4g&st=unlnmhcs&raw=1",
-          "video_url": "hhttp://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8",
-          "type": "live"
-        }
-        {
-          "id": 302,
-          "title": "Anime Clasic",
+          "title": "AnimeClasic",
           "thumbnail": "https://www.dropbox.com/scl/fi/fhmfvyrsu0katce5laaot/beyond_the_boundary_mirai_kuriyama_red_semicircle_frame_clear_lens_glasses_5_-_.jpg?rlkey=usnqdnjlju5fjuc8uvt76zxx2&st=4xej6l5b&raw=1",
           "video_url": "https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8",
           "type": "live"
-          },
+        }
+        
       ]
     }
   ]
 }
+
 
 
 
