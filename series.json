@@ -6,23 +6,23 @@
       "items": [
         {
           "id": 101,
-          "title": "Pelicula de Prueba",
+          "title": "Pokemon la Pelicula",
           "thumbnail": "https://www.dropbox.com/s/tuimagen/pelicula.jpg?dl=1",
-          "video_url": "https://www.dropbox.com/s/tuvideo/pelicula.mp4?dl=1",
+          "video_url": "http://www.spruto.tv/get_file/5/c210540071556cb986030e20f2782671/117000/117055/117055.mp4",
           "type": "movie"
         },
         {
           "id": 102,
-          "title": "Otra Película",
+          "title": "Pokemon Mewto Regresa",
           "thumbnail": "https://www.dropbox.com/s/tuimagen/pelicula2.jpg?dl=1",
-          "video_url": "https://www.dropbox.com/s/tuvideo/pelicula2.mp4?dl=1",
+          "video_url": "http://www.spruto.tv/get_file/5/dc33a579cf7862835c68ee95cd251859/117000/117056/117056.mp4",
           "type": "movie"
         },
         {
           "id": 103,
-          "title": "Película Acción",
+          "title": "Aviones",
           "thumbnail": "https://www.dropbox.com/s/tuimagen/pelicula3.jpg?dl=1",
-          "video_url": "https://www.dropbox.com/s/tuvideo/pelicula3.mp4?dl=1",
+          "video_url": "https://onedrive.live.com/download.aspx?resid=64b14779817ef4b!126&authkey=!AMfPb6GJNQesTxU&ithint=video%2cmp4",
           "type": "movie"
         }
       ]
@@ -91,4 +91,5 @@
     }
   ]
 }
+
 
