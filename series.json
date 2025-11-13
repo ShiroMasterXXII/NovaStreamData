@@ -31,13 +31,6 @@
           "thumbnail": "https://github.com/ShiroMasterXXII/NovaStreamData/blob/main/thumbnails/poster-imax-kimetsu-no-yaiba.jpg?raw=true",
           "type": "movie",
           "video_url": "https://google.com.mx"
-        },
-        {
-          "id": 305,
-          "title": "Otrapelicula",
-          "thumbnail": "www.google.com",
-          "type": "movie",
-          "video_url": "https://dl.dropboxusercontent.com/scl/fi/eifw4v3p9hxrcdllip4bh/Como-entrenar-a-tu-drag-n-2025.mp4?rlkey=efjaizuny4b5eyd4xob6ggrsa"
         }
       ]
     },
@@ -100,13 +93,6 @@
         },
         {
           "id": 302,
-          "title": "AnimeClasic",
-          "thumbnail": "https://www.dropbox.com/scl/fi/fhmfvyrsu0katce5laaot/beyond_the_boundary_mirai_kuriyama_red_semicircle_frame_clear_lens_glasses_5_-_.jpg?rlkey=usnqdnjlju5fjuc8uvt76zxx2&st=4xej6l5b&raw=1",
-          "video_url": "https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8",
-          "type": "live"
-        },
-        {
-          "id": 303,
           "title": "AnimeClasic",
           "thumbnail": "https://www.dropbox.com/scl/fi/fhmfvyrsu0katce5laaot/beyond_the_boundary_mirai_kuriyama_red_semicircle_frame_clear_lens_glasses_5_-_.jpg?rlkey=usnqdnjlju5fjuc8uvt76zxx2&st=4xej6l5b&raw=1",
           "video_url": "https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8",
