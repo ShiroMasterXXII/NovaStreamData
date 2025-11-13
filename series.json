@@ -31,6 +31,13 @@
           "thumbnail": "https://github.com/ShiroMasterXXII/NovaStreamData/blob/main/thumbnails/poster-imax-kimetsu-no-yaiba.jpg?raw=true",
           "type": "movie",
           "video_url": "https://google.com.mx"
+        },
+        {
+          "id": 305,
+          "title": "undead",
+          "thumbnail": "",
+          "type": "movie",
+          "video_url": "https://NovaStreamCDN.b-cdn.net/pruebatest.mp4"
         }
       ]
     },
