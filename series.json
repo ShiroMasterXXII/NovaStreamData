@@ -19,13 +19,6 @@
           "type": "movie"
         },
         {
-          "id": 103,
-          "title": "Aviones",
-          "thumbnail": "https://www.dropbox.com/s/tuimagen/pelicula3.jpg?dl=1",
-          "video_url": "https://onedrive.live.com/download.aspx?resid=64b14779817ef4b!126&authkey=!AMfPb6GJNQesTxU&ithint=video%2cmp4",
-          "type": "movie"
-        },
-        {
           "id": 304,
           "title": "Demon Slayer",
           "thumbnail": "https://github.com/ShiroMasterXXII/NovaStreamData/blob/main/thumbnails/poster-imax-kimetsu-no-yaiba.jpg?raw=true",
