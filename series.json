@@ -10,7 +10,8 @@
           "thumbnail": "https://github.com/ShiroMasterXXII/NovaStreamData/blob/main/thumbnails/dragonCT.jpg?raw=true",
           "video_url": "https://dl.dropboxusercontent.com/scl/fi/eifw4v3p9hxrcdllip4bh/Como-entrenar-a-tu-drag-n-2025.mp4?rlkey=efjaizuny4b5eyd4xob6ggrsa",
           "type": "movie",
-          "adult_content": false
+          "adult_content": false,
+          "addedDate": "2025-11-10"
         },
         {
           "id": 102,
@@ -18,7 +19,8 @@
           "thumbnail": "https://www.dropbox.com/s/tuimagen/pelicula2.jpg?dl=1",
           "video_url": "http://www.spruto.tv/get_file/5/dc33a579cf7862835c68ee95cd251859/117000/117056/117056.mp4",
           "type": "movie",
-          "adult_content": false
+          "adult_content": false,
+          "addedDate": "2025-11-13"
         },
         {
           "id": 304,
@@ -26,7 +28,8 @@
           "thumbnail": "https://github.com/ShiroMasterXXII/NovaStreamData/blob/main/thumbnails/poster-imax-kimetsu-no-yaiba.jpg?raw=true",
           "type": "movie",
           "video_url": "https://google.com.mx",
-          "adult_content": true
+          "adult_content": false,
+          "addedDate": "2025-11-08"
         },
         {
           "id": 305,
@@ -34,7 +37,8 @@
           "thumbnail": "",
           "type": "movie",
           "video_url": "https://NovaStreamCDN.b-cdn.net/pruebatest.mp4",
-          "adult_content": false
+          "adult_content": true,
+          "addedDate": "2025-11-13"
         }
       ]
     },
@@ -48,6 +52,7 @@
           "thumbnail": "https://github.com/ShiroMasterXXII/NovaStreamData/blob/main/thumbnails/Rezeo%20Cr.jpg?raw=true",
           "type": "series",
           "adult_content": false,
+          "addedDate": "2025-11-12",
           "chapters": [
             {
               "title": "Capítulo 1",
@@ -73,6 +78,7 @@
           "thumbnail": "https://www.dropbox.com/s/tuimagen/serie2.jpg?dl=1",
           "type": "series",
           "adult_content": false,
+          "addedDate": "2025-11-11",
           "chapters": [
             {
               "title": "Capítulo 1",
@@ -96,17 +102,20 @@
           "thumbnail": "https://github.com/ShiroMasterXXII/NovaStreamData/blob/main/thumbnails/animevision2.jpg?raw=true",
           "video_url": "https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8",
           "type": "live",
-          "adult_content": false
+          "adult_content": false,
+          "addedDate": "2025-11-13"
         },
         {
           "id": 302,
           "title": "AnimeClasic",
           "thumbnail": "https://www.dropbox.com/scl/fi/fhmfvyrsu0katce5laaot/beyond_the_boundary_mirai_kuriyama_red_semicircle_frame_clear_lens_glasses_5_-_.jpg?rlkey=usnqdnjlju5fjuc8uvt76zxx2&st=4xej6l5b&raw=1",
-          "video_url": "https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8",
+          "video_url": "https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8",
           "type": "live",
-          "adult_content": false
+          "adult_content": false,
+          "addedDate": "2025-11-10"
         }
       ]
     }
   ]
 }
+
